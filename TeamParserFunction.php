@@ -1,15 +1,19 @@
 <?php
 
-class TeamParserFunction
-{
+class TeamParserFunction {
+
+	static $csv;
+	static $info_lookup;
+	static $name_lookup;
+
 	public static function onParserFirstCallInit(&$parser)
 	{
 		$parser->setHook("team", "TeamParserFunction::team");
-		$this->csv = array_map('str_getcsv', file(dirname(__FILE__) . '/teams.csv'));
+		self::$csv = array_map('str_getcsv', file(dirname(__FILE__) . '/teams.csv'));
 		$infos_index = 0;
-		$this->info_lookup = array();
-		$this->name_lookup = array();
-		foreach($this->csv as $key => $value) {
+		self::$info_lookup = array();
+		self::$name_lookup = array();
+		foreach(self::$csv as $key => $value) {
 			$parts = explode("|", $value[0]);
 			$infos = array(
 				"abbrev" => $value[1],
@@ -18,9 +22,9 @@ class TeamParserFunction
 				"logo_small" => $value[4],
 				"logo_square" => $value[5]
 			);
-			$this->info_lookup[$infos_index] = $infos;
+			self::$info_lookup[$infos_index] = $infos;
 			foreach($parts as $pkey => $part) {
-				$this->name_lookup[$part] = $infos_index;
+				self::$name_lookup[$part] = $infos_index;
 			}
 			$infos_index += 1;
 		}
@@ -31,7 +35,7 @@ class TeamParserFunction
 	{
 		// TODO: handle various modes of team template
 		$team = strtolower(reset($args));
-		if (array_key_exists($team, $this->name_lookup)) {
+		if (array_key_exists($team, self::$name_lookup)) {
 
 		} else {
 			return "FOO";
