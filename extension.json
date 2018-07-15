@@ -1,0 +1,22 @@
+{
+  "name": "TeamParserFunction",
+  "author": [
+    "Daniel Robbins"
+  ],
+  "license-name": "GPL-2.0+",
+  "description": "A parser extension to display League of Legends team information.",
+  "type": "parserhook",
+  "ResourceFileModulePaths" : {
+  	"localBasePath" : "",
+	"remoteExtPath" : "TeamParserFunction"
+},
+    "Hooks": {
+      "ParserFirstCallInit": [
+        "TeamParserFunction::onParserFirstCallInit"
+      ]
+    },
+    "AutoloadClasses": {
+      "TeamParserFunction": "TeamParserFunction.php"
+    },
+    "manifest_version": 1
+}
