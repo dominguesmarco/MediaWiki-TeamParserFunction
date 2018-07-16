@@ -75,17 +75,19 @@ class TeamParserFunction {
 				if (strlen($asplit[1]) == 0)
 					continue;
 				$ix = intval(substr($asplit[0], 6));
-				$players[$ix] = $asplit[1];
+				$players[$ix] = trim($asplit[1]);
 			} else if (strncmp($asplit[0], 'flag', 4) === 0) {
 				$ix = intval(substr($asplit[0], 4));
-				
-				$flags[$ix] = strtolower($asplit[1][0]) . strtolower($asplit[1][1]);
+				$flag = strtolower(trim($asplit[1]));	
+				if ($flag == "denmark")
+					$flag = "dk";
+				$flags[$ix] = strtolower($flag[0] . $flag[1]);
 			} else if (strncmp($asplit[0], 'role', 4) === 0) {
 				$ix = intval(substr($asplit[0], 4));
-				$roles[$ix] = $asplit[1];
+				$roles[$ix] = trim($asplit[1]);
 			} else if (strncmp($asplit[0], 'link', 4) === 0) {
 				$ix = intval(substr($asplit[0], 4));
-				$links[$ix] = $asplit[1];
+				$links[$ix] = trim($asplit[1]);
 			}
 		}
 		$output = '<table class="prettytable rostertable">';
@@ -127,7 +129,7 @@ class TeamParserFunction {
 		}
 		if (array_key_exists($thang, self::$name_lookup)) {
 			$info = self::$info_lookup[self::$name_lookup[$thang]];
-			$wikipage = $info["wikipage"];
+			$wikipage = trim($info["wikipage"]);
 			$fullname = $info["fullname"];
 			$logo = $info["logo_small"];
 			$abbrev = $info["abbrev"];
@@ -156,14 +158,22 @@ class TeamParserFunction {
 				if ($nolink === true) {
 					return array("[[File:" . $logo. '|link=|60px]]', 'noparse' => false);
 				} else {
-					return array("[[File:" . $logo. '|link=|60px]] [[' . $wikipage. '|' . $fullname . ']]', 'noparse' => false);
+					if (strlen($wikipage) == 0) {
+						return array("[[File:" . $logo. '|link=|60px]] [[' . $fullname . ']]', 'noparse' => false);
+					} else {
+						return array("[[File:" . $logo. '|link=|60px]] [[' . $wikipage. '|' . $fullname . ']]', 'noparse' => false);
+					}
 				}
 				break;
 			case "leftlong":
 				if ($nolink === true) {
 					return array('[[File:' . $logo. '|link=|60px]]', 'noparse' => false);
 				} else {
-					return array('[[' . $wikipage . '|' . $fullname . ']] [[File:' . $logo. '|link=|60px]]', 'noparse' => false);
+					if (strlen($wikipage) == 0) {
+						return array('[[' . $fullname . ']] [[File:' . $logo. '|link=|60px]]', 'noparse' => false);
+					} else {
+						return array('[[' . $wikipage . '|' . $fullname . ']] [[File:' . $logo. '|link=|60px]]', 'noparse' => false);
+					}
 				}
 				break;
 			case "rightshort":
@@ -181,10 +191,18 @@ class TeamParserFunction {
 				}
 				break;
 			case "rightshortlinked":
-				return array("[[File:" . $logo. '|link=|38px]] [['. $wikipage. '|' . $abbrev . ']]', 'noparse' => false);
+				if (strlen($wikipage) == 0) {
+					return array("[[File:" . $logo. '|link=|38px]] [['. $fullname . '|'.  $abbrev . ']]', 'noparse' => false);
+				} else {
+					return array("[[File:" . $logo. '|link=|38px]] [['. $wikipage. '|' . $abbrev . ']]', 'noparse' => false);
+				}
 				break;
 			case "leftshortlinked":
-				return array('[[' . $wikipage . '|' . $abbrev . "]] [[File:" . $logo. '|link=|38px]]', 'noparse' => false);
+				if (strlen($wikipage) == 0) {
+					return array('[[' . $fullnaem . '|' . $abbrev . "]] [[File:" . $logo. '|link=|38px]]', 'noparse' => false);
+				} else {
+					return array('[[' . $wikipage . '|' . $abbrev . "]] [[File:" . $logo. '|link=|38px]]', 'noparse' => false);
+				}
 				break;
 		}
 	}
