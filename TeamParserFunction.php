@@ -98,7 +98,7 @@ class TeamParserFunction {
 				$output .= $roles[$ix] . " ";
 			}
 			if (array_key_exists($ix, $links)) {
-				$output .= '[[' . $player . '|' . $links[$ix] . ']] ';
+				$output .= '[[' . $links[$ix] . ']] ';
 			} else {
 				$output .= '[[' . $player . ']] ';
 			}
