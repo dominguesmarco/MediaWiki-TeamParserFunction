@@ -9,10 +9,13 @@
   "ResourceFileModulePaths" : {
   	"localBasePath" : "",
 	"remoteExtPath" : "TeamParserFunction"
-},
+	},
+	"ExtensionMessagesFile" : {
+		"TeamParserExtensionMagic" : "TeamParserFunction.i18n.php"
+	},
     "Hooks": {
       "ParserFirstCallInit": [
-        "TeamParserFunction::onParserFirstCallInit"
+        "TeamParserFunction::setup"
       ]
     },
     "AutoloadClasses": {

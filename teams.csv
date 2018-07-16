@@ -258,7 +258,7 @@ act|club activist,ACT,CLUB Activist,CLUB Activist,ACTlogo std.png,CLUB Activist 
 club act|club activist,ACT,CLUB Activist,CLUB Activist,ACTlogo std.png,Club ACT.png
 club5ive|5ive,5ive,,Club5ive,5ivelogo std.png,
 clutch|clutch esport,Clutch,,Clutch Esport,Clutchlogo std.png,
-clutch|clutch gaming,CG,Clutch Gaming,Clutch Gaming,ClutchGlogo std.png,Clutch Gaming Logo.png
+clutch|clutch gaming,CG,Clutch Gaming,Clutch Gaming,CGlogo std.png,Clutch Gaming Logo.png
 cg.a|clutch academy|clutch gaming academy,CG.A,Clutch Gaming Academy,Clutch Gaming Academy,CG.Alogo std.png,Clutch Gaming Logo.png
 cms.cg|cm storm cg,CMS.CG,,CM Storm CG,CMS.CGlogo std.png,
 cmstorm|cmstorm gaming,CMStorm,,CMStorm Gaming,CMStormlogo std.png,CMStorm Gaminglogo square.png
@@ -421,7 +421,7 @@ eos|eos gaming|e.o.s. gaming|team eos gaming,EOS,,e.o.s. Gaming,EOSlogo std.png,
 eanix,Eanix,Eanix,Eanix,Eanixlogo std.png,Eanixlogo square.png
 epls|easy peasy lemon squeezy,EPLS,,Easy Peasy Lemon Squeezy,EPLSlogo std.png,
 ebd ls|ebd legends|esport business development legends,EBD Ls,EBD LEGENDs,EBD LEGENDs,,
-echo|echofox|efx|echo fox,EFX,Echo Fox,Echo Fox,EFXlogo std.png,Echo Fox logo.png
+echo|echofox|efx|echo fox|fox,EFX,Echo Fox,Echo Fox,FOXlogo std.png,Echo Fox logo.png
 efa|echo.a|echofox.a|efx.a|echo fox academy,EFX.A,Echo Fox Academy,Echo Fox Academy,EFX.Alogo std.png,Echo Fox logo.png
 ec|eclypsia,EC,Eclypsia,Eclypsia,EClogo std.png,Eclypsia150.png
 ec.luna|eclypsia.luna,EC,Eclypsia.Luna,Eclypsia.Luna,EClogo std.png,Eclypsia Logo.png
@@ -1654,8 +1654,7 @@ dreamek|team dreamek,Dreamek,,Team Dreamek,Dreameklogo std.png,Dreamek.png
 td|teamdynamic|team dynamic,TD,Team Dynamic,Team Dynamic,TDlogo std.png,Team_Dynamiclogo_square.png
 e2g|event2give|event 2 give|team e2g,E2G,,Team E2G,E2Glogo std.png,
 empire|team empire,Empire,Team Empire,Team Empire,Empirelogo std.png,Empiresquare.png
-envyus|team envyus,nV,Team EnVyUs,Team EnVyUs,NVlogo std.png,Team EnVyUslogo square.png
-nv|envyus|team envyus,nV,Team EnVyUs,Team EnVyUs,NVlogo std.png,
+envyus|team envyus|nv|team envy,nV,Team EnVyUs,Team EnVyUs,NVlogo std.png,Team EnVyUslogo square.png
 teamephix|team ephix,ephix,,Team ephix,Ephixlogo std.png,
 team espeon,Espeon,,Team Espeon,Espeonlogo std.png,Team Espeonlogo_square.png
 tevo|team evolution,TEVO,Team Evolution,Team Evolution,,
