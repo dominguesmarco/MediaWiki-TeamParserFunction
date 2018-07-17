@@ -637,7 +637,7 @@ gamester|gamestergear,GsG,,GamesterGear,GsGlogo std.png,
 gamestodin,GStodin,,GameStodin,GStodinlogo std.png,
 gtv|gametv,GTV,,GameTV,GTVlogo std.png,
 gaming|gaming esports,Gaming,,Gaming eSports,Gaminglogo std.png,
-ggaming|gaming gaming,GGaming,Gaming Gaming,Gaming Gaming,GGaminglogo std.png,GGaming Logo.png
+gg|ggaming|gaming gaming,GG,Gaming Gaming,Gaming Gaming,GGaminglogo std.png,GGaming Logo.png
 gg.eu|gaminggear.eu,GG.EU,GamingGear.eu,GamingGear.eu,GG.EUlogo std.png,GGeu logo 150.png
 gs|gamingsniper,GS,,GamingSniper,GSlogo std.png,
 gt|gamtee,GT,Gamtee,Gamtee,GTlogo std.png,GT logo new.png
@@ -707,7 +707,7 @@ gdm|guerreros del mouse,GdM,Guerreros del Mouse,Guerreros del Mouse,GdMlogo std.
 gunwa|gunwaaa,Gunwa,,Gunwa,Gunwalogo std.png,
 guru|guru gaming,guru,Guru Gaming,Guru Gaming,Gurulogo std.png,Guru Gaming logo 150.png
 h2k|h2k gaming|h2k-gaming,H2k,H2k-Gaming,H2k-Gaming,H2klogo std.png,H2k_logo.png
-haf|hafnet|hafnet esports,HAF,Hafnet eSports,Hafnet eSports,HAFlogo std.png,Hafnet_eSports_Logo.png
+haf|hafnet|hafnet esports,HAF,Hafnet E-Sports,Hafnet E-Sports,HAFlogo std.png,Hafnet_eSports_Logo.png
 h.k.c|haikou college of economics,H.K.C.,,Haikou College of Economics,H.K.C.logo std.png,
 hwl|haina wl,HWL,,Haina WL,HWLlogo std.png,
 hhes|hamburger hänger|hamburger hanger,HHeS,,Hamburger Hänger,HHeSlogo std.png,
@@ -971,6 +971,7 @@ ldg.vp|legend dragon.vp,LDG.VP,,Legend Dragon.VP,,
 legendary,Lgdry,Legendary,Legendary,Lgdrylogo std.png,Legendarylogo std.png
 ls.aesir|legendary squad aesir,LS.Aesir,,Legendary Squad Aesir,LS.Aesirlogo std.png,
 le.ice|le ice|legends esport ice,LE ICE,,Legends Esport ICE,LE ICElogo std.png,
+lgt|legatum,LGT,Legatum,Legatum,Legatum logo25.png,Legatum logo150.png
 lbr|legendsbr,LBR,LegendsBR,LegendsBR,LBRlogo std.png,LBR logo.png
 lgn|legion|legion gaming,LGN,Legion Gaming,Legion Gaming,LGNlogo std.png,Legion Gaminglogo square.png
 lt|legonas tim,LT,,Legonas Tim,LTlogo std.png,
@@ -1313,6 +1314,7 @@ per|phony emperor,PER,,Phony Emperor,PERlogo std.png,
 piltover,Piltover,,Piltover,Piltoverlogo std.png,Piltover logo.png
 pineapple|pineapple express,Pineapple,Pineapple Express,Pineapple Express,Pineapplelogo std.png,
 pink|pink cyber,Pink,,Pink Cyber,Pinklogo std.png,
+pix|pixel esports club,pixel esports,PIX,,Pixel Esports Club,Pixel Esports Club logo25.png,Pixel Esports Club logo150.png,
 pkm|pkmaster,PKM,PKMaster,PKMaster,PKMlogo std.png,PKMasterlogo square.png
 pkd|planetkey|planetkey dynamics,PkD,Planetkey Dynamics,Planetkey Dynamics,PkDlogo std.png,
 pyn|play|play again,PYN,Play Again,Play Again,PYNlogo std.png,Play Againlogo square.png
@@ -1328,8 +1330,8 @@ pop|pop187 club,POP,POP187 Club,POP187 Club,POPlogo std.png,
 pe|positive energy,PE,Positive Energy,Positive Energy,PElogo std.png,Positive Energylogo square.png
 pf|power force,PF,,Power Force,PFlogo std.png,
 pqsim|pqsim e-sports,PQSim,,PQSim e-Sports,PQSimlogo std.png,PQSim e-Sportslogo square.png
-pda|predators esports,PDA,Predators eSports,Predators eSports,PDAlogo std.png,PredatorseSports.png
-pds|pridedreams,PDS,,PrideDreamS,PDSlogo std.png,PrideDreamSlogo square.png
+pds|predators esports,PDS,Predators eSports,Predators eSports,PDAlogo std.png,PredatorseSports.png
+pridedreams|pridedreams,PDS,,PrideDreamS,PDSlogo std.png,PrideDreamSlogo square.png
 pride|pridefc,PrideFC,PrideFC,PrideFC,PrideFClogo std.png,
 prime|prime clan,Prime,Prime Clan,Prime Clan,Primelogo std.png,Prime Clanlogo square.png
 o.prime|optimus prime,Prime.O,Prime Optimus,Prime Optimus,Prime.Ologo std.png,Prime logo.png
@@ -1372,7 +1374,7 @@ rxg|reality check gaming,RXG,,Reality Check Gaming,RXGlogo std.png,
 reality|realityonline|reality.online,realitY,,realitY.online,RealitYlogo std.png,
 rg|reason|reason gaming,RG,Reason Gaming,Reason Gaming,RGlogo std.png,Reason Gaminglogo square.png
 ranc|rebels anarchy,RANC,Rebels Anarchy,Rebels Anarchy,RANClogo std.png,Rebels Anarchylogo square.png
-rbt|rebirth esports,RBT,Rebirth eSports,Rebirth eSports,RBTlogo std.png,Rebirth_eSportslogo_square.png
+rbt|rebirth esports,RBT,Rebirth eSports,Rebirth eSports,RBTlogo std.png,Rebirth eSports logo 150.png
 rebirth.dg|rebirth dg|rebirth destiny|rebirth esports dg|rebirth esports destiny,Rebirth.DG,,Rebirth eSports Destiny,Rebirth.DGlogo std.png,
 rebirth.f|rebirth esports fate,Rebirth.F,,Rebirth eSports Fate,Rebirth.Flogo std.png,Rebirth eSports Fatelogo square.png
 reborn|reborn xd,REBORN XD,,REBORN XD,REBORN XDlogo std.png,
