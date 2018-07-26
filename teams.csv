@@ -145,7 +145,7 @@ be.inside,inSide,,be.inSide,InSidelogo std.png,Be.inSidelogo square.png
 inside,inSide,,be.inSide,InSidelogo std.png,
 b.mode|beast|beast mode,B.Mode,Beast Mode,Beast Mode,B.Modelogo std.png,Beast Modelogo square.png
 beasts|beasts multigaming,Beasts,,Beasts Multigaming,Beastslogo std.png,
-blg|beautiful life gaming,BLG,,Beautiful Life Gaming,BLGlogo std.png,
+blgvn|blg vn|beautiful life gaming,BLG,,Beautiful Life Gaming,BLGlogo std.png,
 belgium,Belgium,,Belgium,Belgiumlogo std.png,Belgium flag.jpg
 ben|bencheados,BEN,Bencheados,Bencheados,BENlogo std.png,Bencheadoslogo square.png
 bklg|bencheados de klg,BKLG,Bencheados de KLG,Bencheados de KLG,BKLGlogo std.png,Bencheados de KLGlogo square.png
@@ -165,7 +165,7 @@ bpi|big plays incorporated,BPI,Big Plays Incorporated,Big Plays Incorporated,BPI
 b.amor|bigfile amor,B.Amor,,Bigfile Amor,B.Amorlogo std.png,
 b.miracle|bigfile miracle,B.Miracle,Bigfile Miracle,Bigfile Miracle,B.Miraclelogo std.png,Bigfile Miraclelogo square.png
 bilgewater,Bilgewater,,Bilgewater,Bilgewaterlogo std.png,Bilgewater logo.png
-bilg|bilibili|bilibili gaming,BLG,Bilibili Gaming,Bilibili Gaming,BILGlogo std.png,Bilibili Gaming logo.png
+blg|bilg|bilibili|bilibili gaming,BLG,Bilibili Gaming,Bilibili Gaming,BILGlogo std.png,Bilibili Gaming logo.png
 bev|binary evasion,BEV,,Binary Evasion,BEVlogo std.png,
 bng|bingo noxus game,BNG,,Bingo Noxus Game,BNGlogo std.png,
 biskvitki zakuska,B-Z,,Biskvitki Zakuska,B-Zlogo std.png,
@@ -248,7 +248,7 @@ clga|clg.a|clg acad|counter logic gaming academy|clg academy,CLG.A,CLG Academy,C
 clg prime|counter logic gaming prime,CLG Prime,CLG Prime,CLG Prime,CLG Primelogo std.png,Counter Logic Gaming Primelogo square.png
 cba|ciaba|cliff is a boosted animal,CBA,,Cliff is a Boosted Animal,CBAlogo std.png,CBAsquare.png
 c9|cloud9|cloud 9,C9,Cloud9,Cloud9,C9logo std.png,Cloud9logo square.png
-c9.a|c9 acad|c9 academy|cloud9 academy|cloud 9 academy,C9.A,Cloud9 Academy,Cloud9 Academy,C9.Alogo std.png,Cloud9logo square.png
+c9a|c9.a|c9 acad|c9 academy|cloud9 academy|cloud 9 academy,C9A,Cloud9 Academy,Cloud9 Academy,C9.Alogo std.png,Cloud9logo square.png
 c9c|c9 challenger|cloud9 challenger|cloud 9 challenger,C9C,Cloud9 Challenger,Cloud9 Challenger,C9Clogo std.png,Cloud9logo square.png
 c9e|c9 eclipse|cloud9 eclipse|cloud 9 eclipse,C9E,Cloud9 Eclipse,Cloud9 Eclipse,C9Elogo std.png,Cloud9 Eclipselogo square.png
 c9 eu|c9 europe|cloud 9 eu|cloud9 europe|cloud 9 europe,C9 EU,Cloud9 Europe,Cloud9 Europe,,Cloud9 Europelogo square.png
@@ -352,7 +352,7 @@ dfgl|destined for glory,DFGL,Destined For Glory,Destined For Glory,,
 dg|destroy gaming,DG,,Destroy Gaming,DGlogo std.png,
 dtg|determined gaming,DTG,Determined Gaming,Determined Gaming,DTGlogo std.png,DTG logo 150.png
 det frx|detonation frx|detonation frenzyx,Det FRX,,DetonatioN FrenzyX,,
-dtng|det|det gaming|detonation|detonation gaming,DNG,DetonatioN Gaming,DetonatioN Gaming,DTNGlogo std.png,DetonatioN Gaminglogo square.png
+dtng|det|det gaming|detonation|detonation gaming|detonation focusme|det fm|dfm,DNG,DetonatioN Gaming,DetonatioN Gaming,DTNGlogo std.png,DetonatioN Gaminglogo square.png
 det rf|detonation rf|detonation rabbitfive,DeT RF,DetonatioN RabbitFive,DetonatioN RabbitFive,DeT RFlogo std.png,Det RF logo version 2.png
 dnr|det rn|detonation rn|detonation rising,DNR,DetonatioN Rising,DetonatioN Rising,,DetonatioN Gaminglogo square.png
 dtn|detonator,DTN,,DeToNator,DTNlogo std.png,
@@ -880,7 +880,7 @@ jhb|jap.h|jap's harbringers,JHB,,JAP's Harbringers,JHBlogo std.png,
 jayob|jayob esports|jayob e-sports,JAYOB,JAYOB e-Sports,JAYOB e-Sports,JAYOBlogo std.png,JAYOB 2015 2.png
 jg|jg esports,JG,,JG eSports,JGlogo std.png,
 falcons|jin air green wings falcons|jin air greenwings falcons|jag falcons|jin air falcons,Falcons,Jin Air Green Wings Falcons,Jin Air Green Wings Falcons,Falconslogo std.png,Jin air falcons new.png
-jinair|jin air|jin air greenwings|jag|jin air green wings,Jin Air,Jin Air GreenWings,Jin Air GreenWings,Jin Airlogo std.png,Jin Air GreenWings logo.png
+jinair|jin air|jin air greenwings|jag|jin air green wings,JAG,Jin Air GreenWings,Jin Air GreenWings,Jin Airlogo std.png,Jin Air GreenWings logo.png
 jagw falcons|jinair falcons|jin air falcons|jinair greenwings falcons|jinair green wings falcons|jin air greenwings falcons|jin air green wings falcons|jag falcons,Falcons,Jin Air GreenWings Falcons,Jin Air GreenWings Falcons,Falconslogo std.png,Jin air falcons new.png
 jagw stealths|jinair stealths|jin air stealths|jinair greenwings stealths|jinair green wings stealths|jin air greenwings stealths|jin air green wings stealths|jag stealths|stealths,Stealths,Jin Air GreenWings Stealths,Jin Air GreenWings Stealths,Stealthslogo std.png,Jin air stealths new.png
 jsd k1|jsd.k1|jingshidai k1|jing shidai k1,JSD K1,,Jing Shidai K1,JSD K1logo std.png,
@@ -1443,7 +1443,7 @@ ror|round or rhythm,RoR,,Round or Rhythm,RoRlogo std.png,
 roxcis|rox cis|rox,ROX,ROX,ROX,ROXlogo std.png,Tornadorox1.png
 roxt|rox tigers,ROX,ROX Tigers,ROX Tigers,ROXTlogo std.png,roxtigersnew.png
 royal academy,RyL,,Royal Academy,RyLlogo std.png,Royal Academylogo square.png
-rb|rbe|royal bandits|royal bandits esports,RBE,Royal Bandits,Royal Bandits,RBElogo std.png,Royal Bandits Logo.png
+rb|rbe|royal bandits|royal bandits esports,RBE,Royal Bandits Esports,Royal Bandits Esports,RBElogo std.png,Royal Bandits Logo.png
 royal club|royal|royal hz|royal club huang zu,Royal,,Royal Club,Royallogo std.png,Royal Clublogo square.png
 royal club 3|royal sm|royal club summer,Royal SM,,Royal Club Summer,,
 royal club 2|royal2|royal tc|royal club tian ci,Royal TC,Royal Club Tian Ci,Royal Club Tian Ci,Royal TClogo std.png,
@@ -1895,7 +1895,7 @@ va|victorious ace,VA,,Victorious Ace,VAsquare.png,VAsquare.png
 victory|victory esports,Victory,,Victory eSports,Victorylogo std.png,Victory eSportslogo_square.png
 vetv|vietnam esports tv,VETV,,Vietnam Esports TV,VETVlogo std.png,
 viking|viking gaming,Viking,,Viking Gaming,Vikinglogo std.png,Viking Gaminglogo_square.png
-vikings vn|vikings,Vikings,,Vikings,Vikingslogo std.png,
+vikings vn|vikings,VK,,Vikings,Vikingslogo std.png,
 vkg|viking|viking esport|vikings esport,VKG,,Vikings eSport,VKGlogo std.png,
 villains|villains esports,Villains,,Villains,Villainslogo std.png,
 vination|vination esports,Vination,,Vination eSports,Vinationlogo std.png,
