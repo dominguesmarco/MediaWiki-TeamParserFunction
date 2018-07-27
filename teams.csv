@@ -207,7 +207,7 @@ cr|ctr|cantho cherry|cherry esports,CR,Cherry Esports,Cherry Esports,CTRlogo std
 cd|carpe diem,CD,Carpe Diem,Carpe Diem,CDlogo std.png,Carpe Diemlogo square.png
 c4l|carry for life,C4L,,Carry for Life,C4Llogo std.png,Carry for Lifelogo square.png
 caseking gaming|ck|caseking|team caseking,CK,,Caseking Gaming,CKlogo std.png,
-cblol allstars,CBLOL Allstars,,CBLOL Allstars,CBLOL Allstarslogo std.png,
+br|brazil,BR,,Brazil,CBLOL Allstarslogo std.png,
 cc|cc club,CC,CC Club,CC Club,CClogo std.png,CC Club.jpg
 ccm,CCM,CCM,CCM,CCMlogo std.png,
 cday|cday gaming,CDAY,,CDAY Gaming,CDAYlogo std.png,CDAY GamingLogo std.png
@@ -231,7 +231,7 @@ cl5.h|cl5 hopes|chileanfive hopes,CL5.H,ChiLeanFivE Hopes,ChiLeanFivE Hopes,CL5.
 clt.l|cl5 the legacy|chileanfive the legacy,CL5.L,ChiLeanFivE The Legacy,ChiLeanFivE The Legacy,CL5.Llogo std.png,ChiLeanFivE The Legacylogo square.png
 cea|china esports academic|china e-sports academic,CEA,China e-Sports Academic,China e-Sports Academic,CEAlogo std.png,CEA logo.png
 ckd|china.korea.dragonz|china korea dragonz,CKD,,China Korea Dragonz,CKDlogo std.png,
-china lpl|cn lpl|lpl|lol pro league,LPL,,China LPL,CN LPLlogo std.png,
+cn|china,CN,,China,LPLlogo std.png,
 choke|choke gaming,Choke,,Choke Gaming,Chokelogo std.png,Choke_Gamingsquare.png
 choppa|choppa in da car,Choppa,,Choppa In Da Car,Choppalogo std.png,
 ccu|chung chou university of st,CCU,,Chung Chou University of ST,CCUlogo std.png,
@@ -239,6 +239,7 @@ cycu|chung yuan christian university,CYCU,,Chung Yuan Christian University,CYCUl
 ctu|chunnam techno university|chunnam techno univ,CTU,Chunnam Techno University,Chunnam Techno University,CTUlogo std.png,Chunnam Techno Universitylogo square.png
 clk|cilekler|çilekler,CLK,ÇİLEKLER,ÇİLEKLER,CLKlogo std.png,ÇİLEKLER logo.png
 cz|circuz|circuz gaming,CZ,,CircuZ Gaming,CZlogo std.png,
+cis,CIS,,CIS,2017 LCL.png
 cj|cj entus,CJ,CJ Entus,CJ Entus,CJlogo std.png,CJ Entuslogo square.png
 cj cm|cj entus club masters,CJ CM,CJ Entus (Club Masters),CJ Entus (Club Masters),CJlogo std.png,
 cjb|cj blaze|cj entus blaze,CJB,CJ Entus Blaze,CJ Entus Blaze,CJ Blazelogo std.png,CJ Entus Blazelogo square.png
@@ -496,6 +497,7 @@ eunited,eUnited,eUnited,eUnited,EUnitedlogo std.png,300px-EUnitedlogo_square.png
 eurika,EURIKA,,EURIKA,EURIKAlogo std.png,
 esg|euro|euronics|euronics gaming,ESG,EURONICS Gaming,EURONICS Gaming,ESGlogo std.png,EURONICS Gaminglogo square.png
 europe lcs|eu lcs,EU LCS,,Europe LCS,EU LCSlogo std.png,
+eu|europe,EU,,Europe,EU LCSlogo std.png,
 eum8|euwotm8,EUM8,EUWOTM8,EUWOTM8,,EU LCS 2015.png
 eh|event horizon|event horizon esports,EH,,Event Horizon eSports,EHlogo std.png,
 e8w|e8 win|ever8 winners,E8W,Ever8 Winners,Ever8 Winners,E8Wlogo std.png,Ever8 Winnerslogo square.png
@@ -1009,7 +1011,6 @@ lgs|logs|log s|log snipers|logitech snipers|logitech g snipers,LGS,Logitech G Sn
 logix,logiX,logiX,logiX,LogiXlogo std.png,Logix.jpg
 lck|lol champions korea,LCK,,LoL Champions Korea,LCKlogo std.png,
 lms|lol master series,LMS,,LoL Master Series,LMSlogo std.png,
-lpl|lol pro league,LPL,,LoL Pro League,LPLlogo std.png,
 loladies,LoLadies,,LoLadies,LoLadieslogo std.png,LoLadies logo.png
 ly|longying|ly game|longyinggame|longying game,LY,,LongYing Game,LYlogo std.png,
 lzdg|longzhu dragon girls,LZDG,,LongZhu Dragon Girls,LZDGlogo std.png,LZ logo.png
@@ -1216,6 +1217,7 @@ ngs|nogamesense,nGS,,noGAMESENSE,NGSlogo std.png,
 nom,NOM,,NOM,NOMlogo std.png,
 nomercy,noMERCY,,noMERCY,NoMERCYlogo std.png,
 nonhk,NONHK,,NONHK,NONHKlogo std.png,
+na|north america,NA,,North America,NA LCSlogo std.png,
 north america lcs|na lcs,NA LCS,,North America LCS,NA LCSlogo std.png,
 nga|not good anymore,NGA,,Not Good Anymore,NGAlogo std.png,
 notyourzone|not your zone,NyZ,,Not Your Zone,NyZlogo std.png,
@@ -1700,7 +1702,7 @@ infs|infused|team infused|team infs|teaminfused,Infused,Team Infused,Team Infuse
 i9|innova|team innova,i9,,Team Innova,I9logo std.png,
 team iran,Iran,,Team Iran,Iranlogo std.png,Iran Flag.png
 team israel,Israel,,Team Israel,Israellogo std.png,Israel Flag.png
-team ljl|team japan,Japan,Team Japan,Team Japan,Japanlogo std.png,
+jp|japan,JP,,Japan,LJL 2016 logo.png,
 just|team just|teamjust,TJ,Team Just,Team Just,Justlogo std.png,Justsquare.png
 just alpha|team just alpha|just.a|tja,Just A,Team Just Alpha,Team Just Alpha,Just Alphalogo std.png,Team Justlogo square.png
 kmz|kamikaze|team kamikaze|team kmz,KMZ,Team Kamikaze,Team Kamikaze,KMZlogo std.png,Team Kamikazelogo square.png
@@ -1729,7 +1731,7 @@ team mongolia,Mongolia,,Team Mongolia,Mongolialogo std.png,Mongolia Flag.png
 mrn|team mrn,MRN,Team MRN,Team MRN,MRNlogo std.png,Mrnlogo3.png
 nb|team nb,NB,Team NB,Team NB,NBlogo std.png,Team NBlogo_square.png
 nevo|next evolution|team nevo|team next evolution,Nevo,Team Nevo,Team Nevo,Nevologo std.png,Team Nevologo_square.png
-oce|oceania|team oceania|team oce|team opl,OCE,Team Oceania,Team Oceania,OCElogo std.png,
+oce|oceania,OCE,,Oceania,OPLlogo std.png,
 one|team one esports|team one e-sports,oNe,Team oNe eSports,Team oNe eSports,ONelogo std.png,TeamoNe.png
 op|team op,OP,Team OP,Team OP,OPlogo std.png,Team OPlogo_square.png
 ouk|overclockersuk|overclockers uk|team overclockers uk,OUK,Team Overclockers UK,Team Overclockers UK,OUKlogo std.png,Team Overclockers UKlogo_square.png
@@ -1765,13 +1767,13 @@ sforge|team server-forge,sForge,Team Server-Forge,Team Server-Forge,SForgelogo s
 sxtn|team sexton,Sxtn,,Team Sexton,Sxtnlogo std.png,
 team solo mebdi,TSMeb,,Team Solo Mebdi,TSMeblogo std.png,Team Solo Mebdilogo_square.png
 team south africa,South Africa,,Team South Africa,South Africalogo std.png,South Africa Flag.png
-team south korea,South Korea,,Team South Korea,South Korealogo std.png,South Korea Flag.png
-sea|southeast asia|team southeast asia|team gpl|team sea,SEA,Team Southeast Asia,Team Southeast Asia,SEAlogo std.png,
+kr|south korea,KR,,South Korea,LCKlogo std.png,
+sea|southeast asia,SEA,,Southeast Asia,2017GPLLogo.png
 sl|team speedlink,SL,,Team SPEEDLINK,SLlogo std.png,
 strix|team strix,Strix,,Team Strix,Strixlogo std.png,Team Strixlogo_square.png
 team switzerland,Switzerland,,Team Switzerland,Switzerlandlogo std.png,Switzerland Flag.png
 sypher|team sypher,Sypher,Team Sypher,Team Sypher,Sypherlogo std.png,Team Sypherlogo square.png
-team taiwan,Taiwan,,Team Taiwan,Taiwanlogo std.png,Taiwan Flag.png
+tw|tw/hk/mo,TW,,TW/HK/MO,LMSlogo std.png,
 team thailand,Thailand,,Team Thailand,Thailandlogo std.png,Thailand Flag.png
 teamtheorygaming|team theory gaming,Theory,,Team Theory Gaming,Theorylogo std.png,
 tlc my|tlc malaysia|team tlc my|team tlc malaysia,TLC MY,,Team TLC MY,,
@@ -1779,7 +1781,7 @@ tlc sg|tlc singapore|team tlc sg|team tlc singapore,TLC SG,,Team TLC SG,,
 tdtv|team towerdivetv,TDTV,,Team TowerDiveTV,TDTVlogo std.png,Team TowerDiveTVlogo_square.png
 tpl|team tpl,TPL,,Team TPL,,
 team tunisia,Tunisia,,Team Tunisia,Tunisialogo std.png,Tunisia Flag.png
-turkey|team tcl|team turkey,Turkey,Team Turkey,Team Turkey,Turkeylogo std.png,
+tr|turkey,TR,,Turkey,TCL Allstarslogo std.png,
 united|team united,United,Team United,Team United,Unitedlogo std.png,Team Unitedlogo square.png
 ul|unlimited|team unlimited,UL,,Team Unlimited,ULlogo std.png,UL logo.png
 usa|team usa,USA,,Team USA,USAlogo std.png,
@@ -1896,6 +1898,7 @@ vgp|vici potential|vici potential gaming,VGP,Vici Potential Gaming,Vici Potentia
 vg.s|vici gaming stars|vici stars gaming|vici stand gaming,VG.S,Vici Stand Gaming,Vici Stand Gaming,,Vici Stand Gaminglogo square.png
 va|victorious ace,VA,,Victorious Ace,VAsquare.png,VAsquare.png
 victory|victory esports,Victory,,Victory eSports,Victorylogo std.png,Victory eSportslogo_square.png
+vn|vietnam,VN,,Vietnam,VCS.png
 vetv|vietnam esports tv,VETV,,Vietnam Esports TV,VETVlogo std.png,
 viking|viking gaming,Viking,,Viking Gaming,Vikinglogo std.png,Viking Gaminglogo_square.png
 vikings vn|vikings,VK,,Vikings,Vikingslogo std.png,
