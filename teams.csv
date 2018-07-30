@@ -1642,7 +1642,6 @@ blackeye|team blackeye|tbe,TBE,Team BlackEye,Team BlackEye,TBElogo std.png,Team 
 brazil|team brazil|team cblol,Brazil,Team Brazil,Team Brazil,Brazillogo std.png,
 tc3|team c3,TC3,,Team C3,TC3logo std.png,Team C3logo square.png
 ca|team canada,Can,,Team Canada,Canlogo std.png,
-team china,China,,Team China,Chinalogo std.png,China Flag.png
 team sltvss|team cis,CIS,Team CIS,Team CIS,CISlogo std.png,
 c|cst|coast|team coast,CST,Team Coast,Team Coast,CSTlogo std.png,Team Coast.png
 c gold|cst gold|coast gold|tcg|team coast gold,CST Gold,Team Coast Gold,Team Coast Gold,CST Goldlogo std.png,Team Coast Goldlogo_square.png
@@ -1698,7 +1697,6 @@ img|imagine|team imagine,IMG,Team Imagine,Team Imagine,IMGlogo std.png,Team Imag
 team imex|imex,imex,,team imex,Imexlogo std.png,
 immunity|team immunity,Imm,Team Immunity,Team Immunity,Immlogo std.png,Team Immunitylogo_square.png
 impulse|team impulse|tip,TiP,Team Impulse,Team Impulse,TiPlogo std.png,Team Impulselogo_square.png
-team indonesia,Indonesia,,Team Indonesia,Indonesialogo std.png,Indonesia Flag.png
 ifin|team infinite,iFin,Team Infinite,Team Infinite,IFinlogo std.png,Team Infinitelogo_square.png
 infs|infused|team infused|team infs|teaminfused,Infused,Team Infused,Team Infused,Infusedlogo std.png,Infusedsquare.png
 i9|innova|team innova,i9,,Team Innova,I9logo std.png,
@@ -2218,3 +2216,12 @@ tyai,TYAI,,National Tao-yuan AIV High School,TYAIlogo std.png,
 tcu|tzu chi university,TCU,,Tzu Chi University,TCUlogo std.png,
 cuhk|the chinese university of hong kong,CUHK,,The Chinese University of Hong Kong,CUHKlogo std.png,
 tku|tamkang university,TKU,,Tamkang University,TKUlogo std.png,
+
+team china,CN,China National Team,China,Team China logo25.png,
+team chinese taipei,CT,Chinese Taipei National Team,Chinese Taipei,Team Chinese Taipei logo25.png,
+team indonesia,ID,Indonesia National Team,Indonesia,Team Indonesia logo25.png,
+team kazakhstan,KZ,Kazakhstan National Team,Kazakhstan,Team Kazakhstan logo25.png,
+team pakistan,PK,Pakistan National Team,Pakistan,Team Pakistan logo25.png,
+team saudi arabia,SA,Saudi Arabia National Team,Saudi Arabia,Team Saudi Arabia logo25.png,
+team south korea,KR,South Korea National Team,South Korea,Team South Korea logo25.png,
+team vietnam,VN,Vietnam National Team,Vietnam,Team Vietnam logo25.png,
