@@ -95,7 +95,7 @@ class TeamParserFunction {
 		foreach ($players as $ix => $player) {
 			$output .= '<tr><td class="RosterPlayers" width="150" style="font-weight:700;line-height:22px;">';
 			if (array_key_exists($ix, $roles)) {
-				$output .= {{Infobox Player/RoleImages|' . $roles[$ix] . '}};
+				$output .= '{{Infobox Player/RoleImages|' . $roles[$ix] . '}}';
 			}
 			if (array_key_exists($ix, $flags)) {
 				$output .= '[[File:' . $flags[$ix] . '.png|16px|link=]]';
