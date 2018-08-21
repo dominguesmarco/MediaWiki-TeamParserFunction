@@ -98,12 +98,12 @@ class TeamParserFunction {
 				$output .= '{{Infobox Player/RoleImages|' . $roles[$ix] . '}}';
 			}
 			if (array_key_exists($ix, $flags)) {
-				$output .= '[[File:' . $flags[$ix] . '.png|16px|link=]]';
+				$output .= ' [[File:' . $flags[$ix] . '.png|16px|link=]]';
 			}
 			if (array_key_exists($ix, $links)) {
 				$output .= '[[' . $links[$ix] . '|' . $player . ']] ';
 			} else {
-				$output .= '[[' . $player . ']] ';
+				$output .= ' [[' . $player . ']] ';
 			}
 			$output .= '</td></tr>';
 		}
