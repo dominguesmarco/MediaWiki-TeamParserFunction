@@ -101,7 +101,7 @@ class TeamParserFunction {
 				$output .= ' [[File:' . $flags[$ix] . '.png|16px|link=]]';
 			}
 			if ((array_key_exists($ix, $links)) && ($links[$ix].trim() != "")) {
-				$output .= '[[' . $links[$ix] . '|' . $player . ']] ';
+				$output .= ' [[' . $links[$ix] . '|' . $player . ']] ';
 			} else {
 				$output .= ' [[' . $player . ']] ';
 			}
