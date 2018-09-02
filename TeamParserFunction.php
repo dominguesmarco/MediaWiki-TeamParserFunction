@@ -91,7 +91,7 @@ class TeamParserFunction {
 			}
 		}
 		$output = '<table class="prettytable rostertable">';
-		$output .= '<tr><th><span style="font-weight:700;">{{team|' . $team . '}}</span></th></tr>';
+		$output .= '<tr><th width="200"><span style="font-weight:700;">{{team|' . $team . '}}</span></th></tr>';
 		foreach ($players as $ix => $player) {
 			$output .= '<tr><td class="RosterPlayers" width="200" style="font-weight:700;line-height:22px;">';
 			if (array_key_exists($ix, $roles)) {
