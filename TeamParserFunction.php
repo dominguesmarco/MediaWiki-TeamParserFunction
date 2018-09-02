@@ -91,9 +91,9 @@ class TeamParserFunction {
 			}
 		}
 		$output = '<table class="prettytable rostertable">';
-		$output .= '<tr><th><span style="font-weight:700;">{{team|' . $team . '|rightshortlinked}}</span></th></tr>';
+		$output .= '<tr><th><span style="font-weight:700;">{{team|' . $team . '}}</span></th></tr>';
 		foreach ($players as $ix => $player) {
-			$output .= '<tr><td class="RosterPlayers" width="150" style="font-weight:700;line-height:22px;">';
+			$output .= '<tr><td class="RosterPlayers" width="200" style="font-weight:700;line-height:22px;">';
 			if (array_key_exists($ix, $roles)) {
 				$output .= '{{Infobox Player/RoleImages|' . $roles[$ix] . '}}';
 			}
