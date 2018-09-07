@@ -40,7 +40,7 @@ agv|agresiv,AGV,Agresiv,Agresiv,AGVlogo std.png,Agresiv 150.png
 ahq a|ahq amateur,ahq A,,ahq Amateur,Ahqlogo std.png,Ahq e-Sports Club 150.png
 ahq|ahq e-sports|ahq esports|ahq e-sports club,ahq,ahq e-Sports Club,ahq e-Sports Club,Ahqlogo std.png,Ahq e-Sports Club 150.png
 ahq.kr|ahq kr|ahqkr|ahq e-sports club korea,ahq.KR,ahq e-Sports Club Korea,ahq e-Sports Club Korea,,Ahq e-Sports Club Korealogo square.png
-ahq f|ahq.f|ahq fighter,ahq F,ahq Fighter,ahq Fighter,Ahq Flogo std.png,Log F logo.png
+ahqf|ahq f|ahq.f|ahq fighter,AF,ahq Fighter,ahq Fighter,Ahq Flogo std.png,Log F logo.png
 ahq g|ahq girls,ahq G,ahq Girls,ahq Girls,Ahqlogo std.png,Ahq e-Sports Club 150.png
 ahqs|ahq s|ahq snipers,ahq S,ahq Snipers,ahq Snipers,Ahq Slogo std.png,Ahq Snipers.jpg
 ae|ahraz esports,ae,,Ahraz Esports,Aelogo std.png,Ahraz Esports 150.png
@@ -81,6 +81,7 @@ apk|apk prince,APK,APK Prince,APK Prince,APK Prince logo 25.png,,
 ara|arairhor,ARA,,Arairhor,ARAlogo std.png,
 aoe|area of effect|area of effect esports,AoE,Area of Effect eSports,Area of Effect eSports,AoElogo std.png,Area of Effect eSportslogo square.png
 arena gaming,Arena,,Arena Gaming,Arenalogo std.png,
+arestw|aresg|ares gaming,AG,Ares Gaming,Ares Gaming,Ares Gaming logo 25.png,,
 ares|ares e.sport,Ares,,Ares e.Sport,Areslogo std.png,
 alt|argentina legends team,ALT,,Argentina Legends Team,ALTlogo std.png,
 aria|aria esports,Aria,,Aria eSports,Arialogo std.png,
@@ -917,6 +918,7 @@ ies|ivyaert|ivyaert esports,iES,,Ivyaert eSports,IESlogo std.png,
 iwantcookie,Cookie,IWantCookie,IWantCookie,Cookielogo std.png,IWantCookie150.png
 iwc allstars,IWC,,IWC Allstars,IWClogo std.png,
 j|jt|j gaming|j team,JT,J Team,J Team,JTlogo std.png,J Teamlogo square.png
+jt2|j team 2,J II,J Team 2,J Team 2,JTlogo std.png,,
 j2 b|j2 betrayal|j2 esports betrayal,J2 B,,J2 Esports Betrayal,J2 Blogo std.png,
 jaatz,Jaatz,,Jaatz,Jaatzlogo std.png,
 jaguar warriors,Jag W,,Jaguar Warriors,Jag Wlogo std.png,Jaguar_Warriors_logo.png
@@ -942,6 +944,7 @@ jng|jungle|jungle team,jNg,,Jungle Team,JNglogo std.png,
 jurassic gaming,JurG,,Jurassic Gaming,JurGlogo std.png,Jurassic Gaminglogo square.png
 jf|justfun|just fun,JF,,Just Fun,JFlogo std.png,
 jth|jthvk|jt havoks|just toys havoks,JTHvK,Just Toys Havoks,Just Toys Havoks,JTHvKlogo std.png,JTHavokslogosquare.png
+ksforces|k special forces,KSF,K Special Forces,K Special Forces,K Special Forces logo 25.png,,
 k11|k eleven,K11,,K Eleven,K11logo std.png,K11 logo.png
 koes|k.origin e-sport club,KOES,,K.Origin E-Sport Club,KOESlogo std.png,
 k11 t1|k11 team 1,K11 T1,,K11 Team 1,K11 T1logo std.png,
@@ -990,6 +993,7 @@ koo|koo tigers,KOO,KOO Tigers,KOO Tigers,KOOlogo std.png,KOO Tigers logo.png
 korea,Korea,,Korea,Korealogo std.png,Korea.png
 korea champions|kr champions,KR Champions,,Korea Champions,KR Championslogo std.png,
 klb|koren loler babies|korean l.o.ler babies,KLB,,Korean L.o.ler Babies,KLBlogo std.png,
+kowloon|kowloon esports,KE,Kowloon Esports,Kowloon Esports,Kowloon Esports logo 25.png,,
 ksv|ksv esports,KSV,KSV eSports,KSV eSports,KSVlogo std.png,KSV eSportslogo square.png
 kt|kt rolster,KT,KT Rolster,KT Rolster,KTlogo std.png,KT Rolster logo.png
 kta|kt rolster a,KT A,KT Rolster A,KT Rolster A,KT Alogo std.png,Kt rolster arrows new.png
@@ -1310,6 +1314,7 @@ oht|old hunters,OHT,,Old Hunters,OHTlogo std.png,
 odf|omelette du fromage,ODF,,Omelette du Fromage,ODFlogo std.png,
 omni|omni esports|omni e-sports|omni gaming,OMNI,,OMNI e-Sports,OMNIlogo std.png,
 ontop|on top,Ontop,,On Top,Ontoplogo std.png,
+178|ose|one seven eight,OSE,One Seven Eight,One Seven Eight,One Seven Eight logo 25.png,,
 oc|onecard|one card|one card internet cafe|one card internet café,OC,,One Card Internet Café,OClogo std.png,
 ocl|one chance left,OCL,,One Chance Left,OCLlogo std.png,One Chance Leftlogo square.png
 omp|openmidplease,OMP,OpenMidPlease,OpenMidPlease,OMPlogo std.png,
@@ -1697,6 +1702,7 @@ acer|team acer,Acer,Team Acer,Team Acer,Acerlogo std.png,Team Acerlogo_square.pn
 acer.n|acer n|acer.nemesis|acer nemesis|team acer.nemesis|team acer nemesis,Acer N,,Team Acer Nemesis,Team Acer Nemesis icon.png,Team Acer Nemesis 150.png
 acer pl|acerpl|acer.pl|team acer poland|team acer.pl,Acer PL,Team Acer Poland,Team Acer Poland,Acer PLlogo std.png,Team Acerlogo_square.png
 afr|afro|team afro,AFR,Team Afro,Team Afro,Team Afro logo25.png,Team Afro logo150.png,
+afrob|afrobeast|afro beast,AFB,Afro Beast,Afro Beast,Team Afro logo25.png,Team Afro logo150.png,
 tah|team all hail,TAH,,Team All Hail,TAHlogo std.png,
 team alocs,Alocs,,Team Alocs,Alocslogo std.png,Team Alocslogo_square.png
 alternate|team alternate,aTn,Team ALTERNATE,Team ALTERNATE,ATnlogo std.png,Team ALTERNATElogo_square.png
@@ -2157,6 +2163,7 @@ ztr2|ztr 2|ztr gaming 2,ZTR 2,,ZTR Gaming 2,,
 10cat|teehomemecat10tua,10CAT,,TEEHOMEMECAT10TUA,10CATlogo std.png,
 1603|nilufer belediyespor|nilüfer belediyespor|nilufer belediyespor 1603|nilüfer belediyespor 1603|1603 nilufer belediye e-spor|1603 nilüfer belediye e-spor,1603,,Nilüfer BelediyEspor 1603,1603logo std.png,1603 Nilüfer Belediye e-Sporlogo square.png
 177|binh dinh 177,177,,Binh Dinh 177,,
+17a|17acad|17 academy,17A,17 Academy,17 Academy,17 Academy logo 25.png,,
 18x|18x e-sport club,18X,,18X e-Sport Club,18Xlogo std.png,
 100|100t|100thieves|100 thieves,100,100 Thieves,100 Thieves,100logo std.png,100T Logo.png
 100.a|100a|100thievesacademy|100 academy|100 thieves academy,100.A,100 Thieves Academy,100T Academy,100.Alogo std.png,100T Logo.png
