@@ -24,8 +24,9 @@ class TeamParserFunction {
 		$infos_index = 0;
 		self::$info_lookup = array();
 		self::$name_lookup = array();
-		$line = 1;
+		$line = 0;
 		foreach(self::$csv as $key => $value) {
+		    $line += 1;
 			if (count($value) < 6) {
 			    error_log("TeamParserFunction: Invalid CSV, line $line: " . json_encode($value));
 			    continue;
