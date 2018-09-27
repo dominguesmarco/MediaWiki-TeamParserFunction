@@ -24,8 +24,13 @@ class TeamParserFunction {
 		$infos_index = 0;
 		self::$info_lookup = array();
 		self::$name_lookup = array();
+		$line = 1;
 		foreach(self::$csv as $key => $value) {
-			$parts = explode("|", $value[0]);
+			if (count($value) < 6) {
+			    error_log("TeamParserFunction: Invalid CSV, line $line: " . json_encode($value));
+			    continue;
+            }
+		    $parts = explode("|", $value[0]);
 			$infos = array(
 				"abbrev" => $value[1],
 				"wikipage" => $value[2],
@@ -97,10 +102,10 @@ class TeamParserFunction {
 			if (array_key_exists($ix, $roles)) {
 				$output .= '{{Infobox Player/RoleImages|' . $roles[$ix] . '}}';
 			}
-			if ((array_key_exists($ix, $flags)) && ($flags[$ix].trim() != "")) {
+			if ((array_key_exists($ix, $flags)) && (trim($flags[$ix]) != "")) {
 				$output .= ' [[File:' . $flags[$ix] . '.png|16px|link=]]';
 			}
-			if ((array_key_exists($ix, $links)) && ($links[$ix].trim() != "")) {
+			if ((array_key_exists($ix, $links)) && (trim($links[$ix]) != "")) {
 				$output .= ' [[' . $links[$ix] . '|' . $player . ']] ';
 			} else {
 				$output .= ' [[' . $player . ']] ';
@@ -136,7 +141,6 @@ class TeamParserFunction {
 		} else {
 			error_log("did not find ". $thang);
 			$logo = "Blanklogo std.png";
-			$nolink = true;
 			$wikipage = "None";
 			$fullname = "Not found";
 		}
@@ -199,7 +203,7 @@ class TeamParserFunction {
 				break;
 			case "leftshortlinked":
 				if (strlen($wikipage) == 0) {
-					return array('[[' . $fullnaem . '|' . $abbrev . "]] [[File:" . $logo. '|link=|38px]]', 'noparse' => false);
+					return array('[[' . $fullname . '|' . $abbrev . "]] [[File:" . $logo. '|link=|38px]]', 'noparse' => false);
 				} else {
 					return array('[[' . $wikipage . '|' . $abbrev . "]] [[File:" . $logo. '|link=|38px]]', 'noparse' => false);
 				}
