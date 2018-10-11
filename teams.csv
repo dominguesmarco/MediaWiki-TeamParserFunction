@@ -71,7 +71,7 @@ aego|alterego|alter ego|alterego gaming|alter ego gaming,AEgo,,AlterEgo Gaming,A
 awh|always with honor,AWH,Always With Honor,Always With Honor,AWHlogo std.png,Always With Honorlogo square.png
 apu|an phat ultimate|ultimate|u,APU,An Phat Ultimate,An Phat Ultimate,APUlogo std.png,APU logo 2015.png
 anc|anarchy,ANC,Anarchy,Anarchy,ANC logo new.png,Anarchylogo square.png
-anarchy247,|anarchy 247,A247,,Anarchy 247,Logo std2.png
+anarchy247,anarchy 247,A247,,Anarchy 247,Logo std2.png
 asd|and stay down,aSd,,And Stay Down,ASdlogo std.png,
 anexis|anexis esports,Anexis,Anexis eSports,Anexis eSports,AnexisLogo std.png,Anexis eSportslogo square.png
 animate|animateesports|animate esports,aN,Animate eSports,Animate eSports,ANlogo std.png,Animate eSportslogo square.png
@@ -342,7 +342,7 @@ adn|cube adonis,ADN,Cube Adonis,Cube Adonis,Cube Adonis logo25.png,Cube Adonis l
 crs academy|crs acad|curse academy,Crs Acad,Curse Academy,Curse Academy,Crs Acadlogo std.png,Curse Academylogo square.png
 csgn|cursed g|cursed giants,CSGN,,Cursed Giants,CSGNlogo std.png,Cursed Giantslogo square.png
 csr|cursed rage,CSR,Cursed Rage,Cursed Rage,CSRlogo std.png,Cursed Ragelogo square.png
-cge|cyber gamer|cyber gamer e-sports,CGE,,Cyber Gamer e-Sports,CGElogo std.png,
+cge|cyber gamer|cyber gamer e-sports,CGE,,Cyber Gamer,CGElogo std.png,
 cyber|cyber gaming,Cyber,,Cyber Gaming,Cyberlogo std.png,Cyber Gaminglogo square.png
 cbeasts|cyberbeasts,CBeasts,,CyberBeasts,CBeastslogo std.png,
 cbc|cybercore anonys,CBC,,CyberCore Anonys,CBClogo std.png,CyberCore Anonyslogo square.png
@@ -842,6 +842,7 @@ hkes|hk esports|hong kong esports,HKES,Hong Kong Esports,Hong Kong Esports,HKESl
 hopeig|hopeeig|hopeinfinite,HopEiG,HopeInFinite,HopeInFinite,HopEiGlogo std.png,
 how|house of warrior,HOW,,House of Warrior,HOWlogo std.png,
 ht|hua tu gaming,HT,,Hua Tu Gaming,HTlogo std.png,
+hueg,HUEG,,HUEG,Logo std2.png,
 huma|team huma,Huma,Huma,Huma,Humalogo std.png,Huma logo square.png
 huya|huya tigers,HUYA,HUYA Tigers,HUYA Tigers,HUYAlogo std.png,HUYA logo HD.png
 hwa|hwa gaming,HWA,HWA Gaming,HWA Gaming,HWAlogo std.png,HWA logo.png
@@ -1390,6 +1391,7 @@ origen acad|origen academy,OG.A,,Origen Academy,OR.Alogo std.png,
 origen esp|og esp,Origen ESP,,Origen ESP,Origen ESPlogo std.png,
 origine|origine-online|origine online,Origine,Origine Online,Origine Online,Originelogo std.png,Origine Onlinelogo square.png
 osm|osos mafiosos,OSM,,Osos Mafiosos,OSMlogo std.png,Osos Mafiososlogo_square.png
+otm,OTM,,OTM,Logo std2.png,
 outlawz,OTL,Outlawz,Outlawz,Outlawz logo 25.png,,
 outplayed,OP,Outplayed,Outplayed,Outplayed logo 25.png
 od|overdrive,OD,OverDrive,OverDrive,ODlogo std.png,
@@ -1770,6 +1772,7 @@ tbg|tbear gaming|t.bear|t.bear gaming,TBG,T.Bear Gaming,T.Bear Gaming,TBGlogo st
 tcs|tcs gaming|tan chi sa|tan chi sa gaming|tanchisa gaming,TCS,Tan Chi Sa Gaming,Tan Chi Sa Gaming,TCSlogo std.png,TCSlogo_square.png
 tasty|tasty stick esports,TSE,Tasty Stick Esports,Tasty Stick Esports,Tasty Stick Esports logo 25.png,,
 tatoo,Tatoo,Tatoo,Tatoo,Tatoologo std.png,Tatoologo_square.png
+tbt,TBT,,TBT,Logo std2.png,
 tca esports|tca|terra cotta army,TCA,,TCA eSports,TCAlogo std.png,TCA eSportssquare.png
 tcl allstars,TCL Allstars,,TCL Allstars,TCL Allstarslogo std.png,
 tcm|tcm gaming|tcm-gaming,TCM,TCM Gaming,TCM Gaming,TCMlogo std.png,TCM Gaminglogo_square.png
@@ -1852,6 +1855,7 @@ gbk|team gbk,GBK,Team GBK,Team GBK,GBKlogo std.png,
 gns|team genesis,GNS,Team Genesis,Team Genesis,GNSlogo std.png,Team Genesislogo_square.png
 ger|germany|team germany,Ger,,Team Germany,Gerlogo std.png,
 guardians|team guardians,Guardians,,Team Guardians,Guardianslogo std.png,
+team hc,HC,,Team HC,Logo std2.png,
 thr|horizon reapers|team horizon reapers,THR,Team Horizon Reapers,Horizon Reapers,Team Horizon Reapers logo 25.png,Team Horizon Reapers logo.png
 hunters|team hunters,Hunters,Team Hunters,Team Hunters,Hunterslogo std.png,Team Hunterslogo_square.png
 hydra|hydra oficial|team hydra|team hydra oficial,Hydra,,Team Hydra,Hydralogo std.png,
@@ -2082,7 +2086,7 @@ vg2|vg 2|vici gaming 2,VG 2,,Vici Gaming 2,,
 vg a|vg acad|vg academy|vici gaming academy,VG A,,Vici Gaming Academy,,
 vg.p|vici point gaming,VG.P,Vici Point Gaming,Vici Point Gaming,VG.Plogo std.png,
 vgp|vici potential|vici potential gaming,VGP,Vici Potential Gaming,Vici Potential Gaming,VGPlogo std.png,Vici Potential Gaminglogo_square.png
-vg.s|vici gaming stars|vici stars gaming|vici stand gaming,VG.S,Vici Stand Gaming,Vici Stand Gaming,,Vici Stand Gaminglogo square.png
+vg.s|vici gaming stars|vici stars gaming|vici stand gaming,VG.S,Vici Stand Gaming,Vici Stand Gaming,Vici Stand Gaming logo 25.png,Vici Stand Gaminglogo square.png
 va|victorious ace,VA,,Victorious Ace,VAsquare.png,VAsquare.png
 victory|victory esports,Victory,,Victory eSports,Victorylogo std.png,Victory eSportslogo_square.png
 vn|vietnam,VN,,Vietnam,VCS logo25.png,
