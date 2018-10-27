@@ -651,6 +651,7 @@ fly.a|flyquest academy,FQA,FlyQuest Academy,FlyQuest Academy,FLY.Alogo std.png,F
 fm|fm esports,FM,FM eSports,FM eSports,FMlogo std.png,FM eSportssquare.png
 fmf|fmf esports|fmf esports club,FMF,,FMF eSports Club,FMFlogo std.png,FMFlogo.png
 fnc|fnatic,FNC,Fnatic,Fnatic,Fnaticlogo std.png,Fnatic logo.png
+fncrc|fnaticrc,FNC RC,FnaticRC,FnaticRC,Fnaticlogo std.png,Fnatic logo.png
 fnca|fnc a|fnc academy|fnatic.a|fnatic a|fnatic acad|fnatic academy,FNC.A,Fnatic Academy,Fnatic Academy,Fnatic.Alogo std.png,Fnatic logo.png
 fnaticmix|fnatic mix|fnc mix,FNC MIX,Fnatic MIX,Fnatic MIX,Fnatic logo.png,Fnatic logo.png
 fnatic.beta|fnatic beta|fnc beta,FNC Beta,Fnatic.Beta,Fnatic.Beta,Fnatic logo.png,Fnatic logo.png
@@ -1852,7 +1853,7 @@ c gold|cst gold|coast gold|tcg|team coast gold,CST Gold,Team Coast Gold,Team Coa
 coinflip|team coinflip|coinflip gaming|team coinflip gaming,TCG,Team Coinflip Gaming,Coinflip Gaming,Team Coinflip Gaming logo 25.png
 tcc|team crowd control,TCC,,Team Crowd Control,TCClogo std.png,
 crs|curse|curse gaming|team curse,CRS,Team Curse,Team Curse,Crslogo std.png,Curselogo150.png
-curse gaming europe|crs eu|curse gaming eu|curse eu|team curse europe|team curse eu,Crs EU,Team Curse Europe,Team Curse Europe,Crs EUlogo std.png,Curselogo150.png
+curse.eu|curse gaming europe|crs eu|curse gaming eu|curse eu|team curse europe|team curse eu,Crs EU,Team Curse Europe,Team Curse Europe,Crs EUlogo std.png,Curselogo150.png
 crs oce|curse oce|team curse oce,Crs OCE,Team Curse OCE,Team Curse OCE,,Crslogo.png
 team cg|team cursed giants,Team CG,Team Cursed Giants,Team Cursed Giants,Team CGlogo std.png,
 dark|team dark,Dark,Team Dark,Team Dark,Darklogo std.png,Team Darklogo square.png
@@ -1874,6 +1875,7 @@ td|teamdynamic|team dynamic,TD,Team Dynamic,Team Dynamic,TDlogo std.png,Team_Dyn
 e2g|event2give|event 2 give|team e2g,E2G,,Team E2G,E2Glogo std.png,
 ex5|exile5|team exile5,EX5,Team Exile5,Team Exile5,Team Exile5 logo 25.png,
 echo zulu|ezulu|team echo zulu,EZ,Team Echo Zulu,Echo Zulu,Team Echo Zulu logo 25.png,,
+eloblade|team eloblade,EloBlade,Team EloBlade,Team EloBlade,Logo std2.png,
 empire|team empire,Empire,Team Empire,Team Empire,Empirelogo std.png,Empiresquare.png
 envyus|team envyus|nv|team envy,nV,Team EnVyUs,Team EnVyUs,NVlogo std.png,Team EnVyUslogo square.png
 teamephix|team ephix,ephix,,Team ephix,Ephixlogo std.png,
